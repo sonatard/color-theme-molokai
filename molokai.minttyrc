@@ -1,0 +1,21 @@
+# molokai for .minttyrc
+ForegroundColour=160,160,160
+BackgroundColour=27,29,30
+CursorColour=    160,160,160
+
+Black=           27,29,30
+BoldBlack=       80,83,84
+Red=             249,38,114
+BoldRed=         255,89,149
+Green=           130,180,20
+BoldGreen=       182,227,84
+Yellow=          253,151,31
+BoldYellow=      254,237,108
+Blue=            86,194,214
+BoldBlue=        140,237,255
+Magenta=         140,84,254
+BoldMagenta=     158,111,254
+Cyan=            70,84,87
+BoldCyan=        137,156,161
+White=           204,204,198
+BoldWhite=       248,248,242
